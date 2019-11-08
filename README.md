@@ -1,0 +1,1 @@
+# cobaltstrike-helper-scripts
